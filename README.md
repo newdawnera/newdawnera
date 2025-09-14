@@ -65,9 +65,7 @@ Passionate about building scalable applications, intelligent systems, and user-f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newdawnera&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=newdawnera&theme=radical" alt="GitHub Streak" />
 </p>
 
