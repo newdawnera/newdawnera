@@ -25,8 +25,8 @@ Passionate about building scalable applications, intelligent systems, and user-f
 ## 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/newdawnera/onevoice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=onevoice&theme=radical" alt="OneVoice Repo" />
+  <a href="https://github.com/newdawnera/cw1-web-development-project-mario-64">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw1-web-development-project-mario-64&theme=radical" alt="CW1 Mario 64 Repo" />
   </a>
   <a href="https://github.com/newdawnera/cw2-web-application-development-project-alliance">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw2-web-application-development-project-alliance&theme=radical" alt="CW2 Web App Alliance Repo" />
@@ -34,9 +34,10 @@ Passionate about building scalable applications, intelligent systems, and user-f
 </p>
 
 <p align="center">
-  <a href="https://github.com/newdawnera/cw1-web-development-project-mario-64">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw1-web-development-project-mario-64&theme=radical" alt="CW1 Mario 64 Repo" />
+  <a href="https://github.com/newdawnera/onevoice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=onevoice&theme=radical" alt="OneVoice Repo" />
   </a>
+  
 </p>
 
 
