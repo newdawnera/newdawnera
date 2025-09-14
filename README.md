@@ -24,11 +24,20 @@ Passionate about building scalable applications, intelligent systems, and user-f
 
 ## 📌 Featured Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=onevoice&theme=radical)](https://github.com/newdawnera/onevoice)
+<p align="center">
+  <a href="https://github.com/newdawnera/onevoice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=onevoice&theme=radical" alt="OneVoice Repo" />
+  </a>
+  <a href="https://github.com/newdawnera/cw2-web-application-development-project-alliance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw2-web-application-development-project-alliance&theme=radical" alt="CW2 Web App Alliance Repo" />
+  </a>
+</p>
 
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw2-web-application-development-project-alliance&theme=radical)](https://github.com/newdawnera/cw2-web-application-development-project-alliance)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw1-web-development-project-mario-64&theme=radical)](https://github.com/newdawnera/cw1-web-development-project-mario-64)
+<p align="center">
+  <a href="https://github.com/newdawnera/cw1-web-development-project-mario-64">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw1-web-development-project-mario-64&theme=radical" alt="CW1 Mario 64 Repo" />
+  </a>
+</p>
 
 
 ---
@@ -53,10 +62,19 @@ Passionate about building scalable applications, intelligent systems, and user-f
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newdawnera&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=newdawnera&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newdawnera&layout=compact&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=newdawnera&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=newdawnera&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newdawnera&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-🔥 *“Code + AI = The future I’m building today.”*  
+🚀 *“Building tomorrow’s intelligence, one commit at a time.”*  
