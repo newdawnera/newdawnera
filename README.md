@@ -22,9 +22,20 @@ Passionate about building scalable applications, intelligent systems, and user-f
 
 ---
 
+## 📌 Featured Repositories
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=onevoice&theme=radical)](https://github.com/newdawnera/onevoice)
+
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw2-web-application-development-project-alliance&theme=radical)](https://github.com/newdawnera/cw2-web-application-development-project-alliance)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=newdawnera&repo=cw1-web-development-project-mario-64&theme=radical)](https://github.com/newdawnera/cw1-web-development-project-mario-64)
+
+
+---
+
 ## 🌍 About Me
 - 📍 Based in Dundee, Scotland (open to relocation/remote)  
-- 🖥️ Portfolio: [your-portfolio-link]  
+<!-- - 🖥️ Portfolio: [your-portfolio-link] --> 
 - ✉️ Reach me at **luckyjeagun1@gmail.com**  
 - 🧑🏾‍🏫 Active in hackathons and mentoring peers in coding challenges  
 - 🤝 Open to collaboration on AI, healthcare platforms, and scalable web innovation  
