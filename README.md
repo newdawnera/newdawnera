@@ -45,16 +45,16 @@ Passionate about building scalable applications, intelligent systems, and user-f
 
 ## 🌍 About Me
 - 📍 Based in Dundee, Scotland (open to relocation/remote)  
-<!-- - 🖥️ Portfolio: [your-portfolio-link] --> 
-- ✉️ Reach me at **luckyjeagun1@gmail.com**  
+- 🖥️ Portfolio: https://luckyjeagundaniel.onrender.com
+- ✉️ Reach me at **jeagundaniel@gmail.com**  
 - 🧑🏾‍🏫 Active in hackathons and mentoring peers in coding challenges  
 - 🤝 Open to collaboration on AI, healthcare platforms, and scalable web innovation  
 
 ---
 
 ## ⚡ Tech Stack
-**Languages:** Python, JavaScript, C++, SQL  
-**Frontend:** React, Tailwind CSS  
+**Languages:** Python, JavaScript, SQL  
+**Frontend:** React, Tailwind CSS, ReactNative, Expo  
 **Backend:** Node.js, Express.js, FastAPI  
 **Databases:** MySQL, MongoDB  
 **AI/ML:** LangChain, Hugging Face, Embeddings, RAG, LLM fine-tuning  
